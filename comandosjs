@@ -1,0 +1,15 @@
+console.log()
+document.write()
+
+concatenacao
++(string)
+
+incremento ++ --
+
+parseInt -converter para
+
+prompt('digite:')
+
+comentarios
+//
+/* */
