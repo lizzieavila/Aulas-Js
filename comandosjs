@@ -2,6 +2,9 @@ console.log()
 document.write()
 alert
 ===========================
+break
+continue
+============================
 concatenacao
 +(string)
 ===========================
@@ -40,8 +43,7 @@ if(condicao){
 }
 ====================
 switch
-option = 1
-
+var option = 1
 switch(option){
 	case 1{
 	comando....;
@@ -55,3 +57,8 @@ switch(option){
 	comando....;	
 	}
 }
+===================
+while(condicao){}
+===================
+dowhile
+do{}while(condicao);
