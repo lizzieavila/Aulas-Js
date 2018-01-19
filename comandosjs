@@ -1,15 +1,57 @@
 console.log()
 document.write()
-
+alert
+===========================
 concatenacao
 +(string)
-
+===========================
 incremento ++ --
-
+===========================
 parseInt -converter para
-
+===========================
 prompt('digite:')
-
+===========================
 comentarios
 //
 /* */
+===========================
+arrays
+var conj = [];
+conj[1] = 'do' ;
+conj[1] ='do2' ;
+----------------------------
+var conj = ['do','do2'];
+============================
+if(condicao){
+	faça a}
+----------------------------
+if(condicao){
+	faça a
+}else{
+	faça b	
+}
+---------------------------
+if(condicao){
+	faça a
+}ifelse{
+	faça b	
+}else{
+	façac
+}
+====================
+switch
+option = 1
+
+switch(option){
+	case 1{
+	comando....;
+	break;
+	}
+	case 2{
+	comando....;
+	break;
+	}
+	default{
+	comando....;	
+	}
+}
